@@ -1,0 +1,10 @@
+"""
+Odyssey / QLAF Model Suite
+
+Copyright (c) 2026 Michael Ast. All rights reserved.
+
+Licensed for personal, educational, evaluation, and non-commercial research use only.
+Commercial use is prohibited without a separate written commercial license.
+
+Patent rights reserved. See LICENSE.md.
+"""
